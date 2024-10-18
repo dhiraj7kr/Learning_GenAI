@@ -1,0 +1,7 @@
+openai
+pandas
+backoff
+PyPDF2
+ticktoken
+numpy
+scipy
