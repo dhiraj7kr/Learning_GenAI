@@ -3,8 +3,8 @@ import pandas as pd
 from openai import AzureOpenAI
 import json
  
-embedding_client = AzureOpenAI(azure_endpoint="https://openai-azuretesting.openai.azure.com/",
-                               api_key="d57bdf8c8fd54d98aea4f20e0a183479",
+embedding_client = AzureOpenAI(azure_endpoint="<endpiont>",
+                               api_key="<api-key>",
                                api_version="2024-02-01")
  
 def extract_text_from_pdf(pdf_path):
