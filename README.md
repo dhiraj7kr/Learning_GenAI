@@ -1,4 +1,5 @@
 # GenAI
+#Function
 
 Azure Functions HTTP Example
 This repository contains examples of Azure Functions that demonstrate how to handle HTTP requests with different methods of passing parameters. Each function showcases a specific way to access input data, either through query parameters or request body.
